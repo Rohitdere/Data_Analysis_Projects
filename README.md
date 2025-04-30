@@ -1,4 +1,3 @@
-Data Analysis Projects
 This repository includes various data analysis projects that focus on different areas of business operations. The goal is to analyze and visualize data to extract insights that can help with decision-making, forecasting, and strategy improvement.
 
 Projects Included:
