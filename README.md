@@ -20,5 +20,5 @@ Numpy
 Each project uses these tools to clean, analyze, and visualize data, providing actionable insights to guide business decisions.
 
 ## ⚠️ Note on Data
-To keep internal values private, all figures are randomly scaled. Trends and relationships are preserved, but actual numbers are altered.
+All figures are randomly scaled. Trends and relationships are preserved, but actual numbers are altered.
 
