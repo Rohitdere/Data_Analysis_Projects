@@ -1,24 +1,41 @@
-This repository includes various data analysis projects that focus on different areas of business operations. The goal is to analyze and visualize data to extract insights that can help with decision-making, forecasting, and strategy improvement.
+## Projects Included
 
-Projects Included:
-Sales Trend Analysis & Forecasting for Business Planning: Analyzing sales data to identify trends, evaluating product-level sales, revenue contribution, and customer demand to identify top performers and predict future sales for better planning.
+### Google Trends and Data Visualization
 
-Marketing Data Analysis: Analyzing customer engagement, campaign effectiveness, and conversion rates to optimize marketing strategies.
+**Notebook**: `Google_Trends_and_Data_Visualisation_project.ipynb`  
+This project analyzes keyword search volume trends using Google Trends data. It focuses on:
+- Identifying seasonal patterns in consumer interest  
+- Comparing brand or product popularity over time  
+- Creating interactive visualizations using Plotly to uncover demand signals and inform marketing timing  
 
-Revenue Analysis: Understanding how different products or services contribute to overall revenue, helping with pricing and sales decisions.
+---
 
-User Interaction & Behavior: Analyzing user data to improve user experience and engagement, helping with retention strategies.
+### Multivariable Regression and Valuation Model
 
-Tools & Libraries Used:
-Python
-Pandas
-Matplotlib
-Seaborn
-Statsmodels
-Numpy
+**Notebook**: `Multivariable_Regression_and_Valuation_Model.ipynb`  
+This project applies multivariable regression techniques to estimate business or product value based on multiple independent variables. It includes:
+- Correlation analysis and feature selection  
+- Regression model training and evaluation  
+- Business valuation based on predictive variables  
 
-Each project uses these tools to clean, analyze, and visualize data, providing actionable insights to guide business decisions.
+---
 
-## ⚠️ Note on Data
-All figures are randomly scaled. Trends and relationships are preserved, but actual numbers are altered.
+### Sales Trend Analysis and Forecasting for Business Planning
+
+**Notebook**: `Sales_Trend_Analysis_&_Forecasting_for_Business_Planning.ipynb`  
+This notebook provides a comprehensive analysis of historical sales data to support business planning. Key aspects include:
+- Revenue trend analysis over time  
+- Product and category-level performance insights  
+- Forecasting future sales using Holt-Winters exponential smoothing  
+
+---
+
+### Retail Customer Analytics
+
+**Notebook**: `Retail Customer Analytics.ipynb`  
+This project analyzes retail transaction data to understand customer behavior and business performance. It includes:
+- Exploratory data analysis (EDA) using Plotly  
+- RFM segmentation (Recency, Frequency, Monetary) to group customers  
+- Analysis of discount effectiveness across age groups, locations, and segments  
+- Revenue forecasting using time series methods  
 
