@@ -8,15 +8,6 @@ This project analyzes keyword search volume trends using Google Trends data. It 
 - Comparing brand or product popularity over time  
 - Creating interactive visualizations using Plotly to uncover demand signals and inform marketing timing  
 
----
-
-### Multivariable Regression and Valuation Model
-
-**Notebook**: `Multivariable_Regression_and_Valuation_Model.ipynb`  
-This project applies multivariable regression techniques to estimate business or product value based on multiple independent variables. It includes:
-- Correlation analysis and feature selection  
-- Regression model training and evaluation  
-- Business valuation based on predictive variables  
 
 ---
 
